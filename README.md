@@ -43,15 +43,6 @@
 </p>
 
 
-## ✍️ Random Dev Quote <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
-
-</div>
-
-
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
