@@ -39,7 +39,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paveshkanungo&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paveshkanungo&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 
