@@ -9,7 +9,7 @@
 
 - 👨‍🎓 BTech in Information Technology from **SGSITS, Indore, Madhya Pradesh**
 
-- 💬 Ask me about **React | JavaScript | Competitive Programming**
+- 💬 Ask me about **Java | React | JavaScript | Competitive Programming**
 
 - 📫 How to reach me **paveshkanungo@gmail.com**
 
