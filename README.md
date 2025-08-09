@@ -5,7 +5,7 @@
 
 </div>
 
-- 🌱 I’m currently **ASE INTERN at Consultadd Inc, Pune, Maharashtra**
+- 🌱 I’m currently **SWE-1 at Consultadd Inc, Pune, Maharashtra**
 
 - 👨‍🎓 BTech in Information Technology from **SGSITS, Indore, Madhya Pradesh**
 
